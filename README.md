@@ -10,6 +10,7 @@ The application will have features that will make the process of finding what to
 
 
 ## Work in progress
+[SetupWars.webm](https://user-images.githubusercontent.com/52933202/181877715-2845b6c3-803f-4258-8300-4daf01a98162.webm)
 
 Please keep in mine that this application is being created by a single developer so features may come out slowly or far in between. However, I am dedicated in what I do so if there are any issues please make an issue post on github and I will try to get it fixed as fast as I can!
 
