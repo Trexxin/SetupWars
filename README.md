@@ -5,7 +5,7 @@
  </h2>
 
 SetupWars is a web application designed with the purpose of allowing users to submit and find pc workspaces.
-It's goal is to promote the discussion of people's setups and to provide prospective users with the means nessacary to take inspiration from others.
+It's goal is to promote the discussion of people's setups and to provide prospective users with the means necessary to take inspiration from others.
 The application will have features that will make the process of finding what tools and hardware a user used to make their workspace easier for others. 
 
 
