@@ -8,6 +8,7 @@ import { AppComponent } from './app.component';
 import { NavMenuComponent } from './nav-menu/nav-menu.component';
 import { HomeComponent } from './home/home.component';
 import { LogInComponent } from './log-in/log-in.component';
+import { RegisterComponent } from './register/register.component';
 
 @NgModule({
   declarations: [
@@ -15,6 +16,7 @@ import { LogInComponent } from './log-in/log-in.component';
     NavMenuComponent,
     HomeComponent,
     LogInComponent,
+    RegisterComponent,
   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'ng-cli-universal' }),
@@ -22,7 +24,8 @@ import { LogInComponent } from './log-in/log-in.component';
     FormsModule,
     RouterModule.forRoot([
       { path: '', component: HomeComponent, pathMatch: 'full' },
-      { path: 'login', component: LogInComponent}
+      { path: 'login', component: LogInComponent},
+      { path: 'register', component: RegisterComponent}
     ])
   ],
   providers: [],
